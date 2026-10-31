@@ -4,7 +4,15 @@ AI-Based Health Risk Assessment System
 
 An academic machine-learning project that analyzes health and lifestyle data to estimate health-related risk scores through an interactive web application.
 
----
+------------------------
+🤝 TEAM MEMBERS (2)
+
+This project was developed collaboratively as part of an academic contribution project.
+
+👩‍💻 Contributor 1: [Kajal k. Kamaliya](⭐Project Lead)
+
+👩‍💻 Contributor 2: [Ankita Rajput]
+
 
 🌟 About the Project
 
@@ -136,12 +144,6 @@ These metrics help assess how closely the predicted scores match the target valu
 A high R² score alone does not establish medical validity or guarantee accurate predictions for real people.
 
 
-🤝 Contributors
-
-This project was developed collaboratively as part of an academic contribution project.
-
-👩‍💻 Contributor 1: [Kajal k. Kamaliya](⭐Project Lead)
-👩‍💻 Contributor 2: [Ankita Rajput]
 
 
 💻 GitHub Contribution Workflow
