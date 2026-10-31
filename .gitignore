@@ -1,0 +1,42 @@
+Python
+
+pycache/
+*.py[cod]
+
+Virtual environments
+
+venv/
+.venv/
+env/
+
+Secrets and credentials
+
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+secrets.json
+
+IDE and system files
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+Temporary and validation files
+
+test_predictions.csv
+final_data.csv
+category_validation.csv
+numeric_validation.csv
+target_validation.csv
+
+Logs and test artifacts
+
+*.log
+.pytest_cache/
+.coverage
+.ipynb_checkpoints/
